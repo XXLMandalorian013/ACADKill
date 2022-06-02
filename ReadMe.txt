@@ -1,0 +1,3 @@
+As I have worked in the AEC industry, I use AutoCad quite a bit. I would quiet often just need to reference a project looking at the .dwg sheets or views. When you close a sheet or view in ACAD, you are prompted to ‘Save” or “Close w/ out Saving” and having several of these open I found it waisted quite a bit of time, or more time than I would have liked to spend. 
+
+So, I made an icon that run Task Kill on ACAD. I also added a prompt to warn the user “All unsaved work will be lost”. I also wrapped this .ps1 in a .bat since I gave this script out to users and by default .ps1’s when double left click open in Notepad, users at this place also had been used to .bat’s. I pass out this script in the form of a shortcut and made an icon similar to the ACAD we used for fun.
